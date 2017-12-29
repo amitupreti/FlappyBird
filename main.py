@@ -7,9 +7,9 @@ from random import randint, randrange
 
 black = (0, 0, 0)
 textcolor1 = (255, 32, 23)
-textcolor2 = (23, 32, 255)
+textcolor2 = (235, 32, 55)
 textcolorBlock = (0, 0, 235)
-sunset = (253,72,47)
+sunset = (255,0,0)
 green = (100,255,100)
 brightblue = (47,228,253)
 orange = (255,113,0)
@@ -33,7 +33,7 @@ clock = pygame.time.Clock ()
 # loading image-- use a image with transparent background
 
 img = pygame.image.load ("bird.png")
-background = pygame.image.load("background.jpg")
+background = pygame.image.load("background1.jpg")
 # getting height and width of  bird
 imageWidth = img.get_width ()
 imageHeight = img.get_height ()
