@@ -1,6 +1,6 @@
 # FlappyBird
 ### A simple endless game using pygame,python
-[https://i.imgur.com/tpTlNen.png](https://i.imgur.com/tpTlNen.png)
+![https://i.imgur.com/tpTlNen.png](https://i.imgur.com/tpTlNen.png)
 
 > It is a simple version of Flappy bird game from android built with pygame and python3
 
@@ -20,14 +20,13 @@ Open terminal
 Windows:
 
 Download python [here](https://www.python.org/downloads/)
-1. ```Download [https://github.com/amitupreti/FlappyBird/archive/master.zip](https://github.com/amitupreti/FlappyBird/archive/master.zip) ```
+1. ```Download ![https://github.com/amitupreti/FlappyBird/archive/master.zip](https://github.com/amitupreti/FlappyBird/archive/master.zip) ```
 2. ``` Extract to a folder```
 3. ``` Open cmd and navigate to the folder you just put the extractor on.```
 4. ``` pip install -r requirements.txt ```
 
 ## Usage example
 
-put the list of accounts to scrape in ```input.txt```
 
 ```python3 main.py ```
 
