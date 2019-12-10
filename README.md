@@ -36,5 +36,5 @@ put the list of accounts to scrape in ```input.txt```
 
 
 Have Questions or Hire me!
-Email: [a.u.aua937@gmail.com](mailto:a.u.aua937@gmail.com)
+Email: [Email Me](mailto:a.u.aua937@gmail.com)
 Upwork:[Hire Me!](https://www.upwork.com/o/profiles/users/_~0138a590d015bae20a/)
