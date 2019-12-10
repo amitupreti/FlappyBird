@@ -1,6 +1,6 @@
 # FlappyBird
 ### A simple endless game using pygame,python
-[!FlappyBird](https://i.imgur.com/tpTlNen.png)
+[https://i.imgur.com/tpTlNen.png](https://i.imgur.com/tpTlNen.png)
 
 > It is a simple version of Flappy bird game from android built with pygame and python3
 
